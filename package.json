@@ -1,0 +1,19 @@
+{
+  "name": "maquetado-adaptativo",
+  "version": "1.0.0",
+  "description": "Maquetado web adaptativo a todos los dispositivos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuevo-rama/maquetado-adaptativo.git"
+  },
+  "author": "nuevo-rama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuevo-rama/maquetado-adaptativo/issues"
+  },
+  "homepage": "https://github.com/nuevo-rama/maquetado-adaptativo#readme"
+}
