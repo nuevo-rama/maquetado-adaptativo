@@ -5,10 +5,10 @@ Maquetado web adaptativo - responsive
 ## Pasos para generar el inicio de un maquetado adaptativo - responsive
 ----
 
-1. Creo el repo
-2. Creo la carpeta en local
+1. Creo el repositorio en Github
+2. 
 3. ```git bash here```
-4. ```git init```
+4. 
 5. ```git clone [url]```
 6. ```code .```
 7. En VS ```npm init```
