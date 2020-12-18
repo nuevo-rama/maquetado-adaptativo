@@ -58,7 +58,7 @@
 -----
 
 ```css
-@media (max-width: 768px) and (orientatios: landscape) {
+@media (max-width: 768px) and (orientation: landscape) {
   body {
   background: blue;
   }
@@ -67,7 +67,7 @@
 
 #### Ese código dice que:
 
-- Si como **máximo** el viewport tiene x cantidad de píxeles y además el dispositivo está en posición (vertical/horizontal), entonces apliquemos las siguientes reglas.
+- Si como **máximo** el viewport tiene x cantidad de píxeles y además el dispositivo está en posición (horizontal), entonces apliquemos las siguientes reglas.
 
 -----
 
